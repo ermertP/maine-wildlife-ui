@@ -1,6 +1,6 @@
 # Maine Species UI
 
-This is the **frontend** for the **Maine Species** application, built with **React Admin**. It visualizes endangered and threatened species in Maine through an interactive map and provides detailed species information.
+This is the **frontend** for the **Maine Endangered and Threatened Species of Maine** application, built with **React Admin**. It visualizes endangered and threatened species in Maine through an interactive map and provides detailed species information.
 
 ## Features
 - **Interactive Map**: Displays the locations of endangered and threatened species in Maine.
