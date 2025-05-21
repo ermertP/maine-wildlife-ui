@@ -15,14 +15,9 @@ This is the **frontend** for the **Maine Endangered and Threatened Species of Ma
 
 ## Getting Started
 
-### Prerequisites
-- **Node.js**: Install [Node.js](https://nodejs.org/) (version 14 or higher).
-- **npm**: Package manager that comes with Node.js.
-
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/maine-wildlife-ui.git
 2. npm install
 3. npm run dev from the client folder
 4. npm run build for hosting
