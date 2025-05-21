@@ -1,0 +1,28 @@
+// {
+//   "files": [],
+//   "references": [
+//     { "path": "./tsconfig.app.json" },
+//     { "path": "./tsconfig.node.json" }
+//   ]
+// }
+
+{
+  "compilerOptions": {
+        "target": "es2020",     // or "esnext"
+    "module": "es2020",     // or "esnext"
+    "baseUrl": ".",
+    "outDir": "lib",
+    "rootDir": "src",
+    "declaration": true,
+    "allowJs": false,
+    "jsx": "react",
+    "lib": ["ES2021", "dom"],
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  },
+  "exclude": ["**/*.spec.ts", "**/*.spec.tsx", "**/*.spec.js"],
+  "include": ["src"]
+}
